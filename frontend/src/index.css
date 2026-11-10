@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #07111f;
+  color: #e8eefc;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.leaflet-container {
+  height: 480px;
+  width: 100%;
+  background: #0b1526;
+  border-radius: 12px;
+}

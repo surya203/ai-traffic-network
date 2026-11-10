@@ -1,0 +1,9 @@
+fastapi>=0.115
+uvicorn[standard]>=0.32
+pydantic-settings>=2.6
+PyJWT[crypto]>=2.10
+httpx>=0.27
+certifi>=2024.8
+scapy>=2.6
+pypdf>=5.1
+pytest>=8.3
